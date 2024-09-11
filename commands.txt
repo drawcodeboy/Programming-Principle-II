@@ -1,0 +1,6 @@
+# Compile
+gcc test.c -o {저장될 파일 이름 지정(.exe 자동으로 붙음)}
+
+# Execute
+test # (1)
+test.exe # (2)
