@@ -10,7 +10,8 @@ int main(void){
     printf("i = %d, pi = %p\n", i, pi);
 
     *pi++;
-    printf("i = %d, pi = %p, *pi = %p\n", i, pi, *pi);
+    printf("i = %d, pi = %p, &i = %p, *pi = %d\n", i, pi, &i, *pi);
 
+    printf("i = %d", i);
     return 0;
 }
