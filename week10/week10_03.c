@@ -6,7 +6,7 @@
 
 int main(void){
     int t;
-    char str[4];
+    char str[6];
     str[0] = 'a';
     str[1] = 'b';
     str[2] = 'c';
